@@ -1,0 +1,60 @@
+body {
+  font-family: 'Press Start 2P', cursive;
+  color: #FEF2BF;
+  text-align: center;
+  background-color: #011F3F;
+}
+
+footer {
+  font-size: 0.5rem;
+  margin-top: 2%;
+}
+
+#score-title {
+  font-size: 2rem;
+  margin: 3%;
+}
+
+#best-score {
+  font-size: 1rem;
+  margin: 3% auto 2%;
+}
+
+#settings {
+  font-size: 1rem;
+  margin: 2% auto 0;
+}
+
+.container {
+  display: block;
+  width: 100%;
+  margin: auto;
+}
+
+.row {
+  font-size: 0;
+}
+
+.point {
+  display: inline-block;
+  height: 20px;
+  width: 20px;
+  /* border: 1px solid #F5DD9F; */
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.field {
+  background-color: #FEF2BF;
+}
+
+.snake {
+  background-color: teal;
+}
+
+.worm {
+  background-color: green;
+}
