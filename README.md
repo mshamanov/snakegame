@@ -4,7 +4,7 @@ HTML + CSS + JavaScript
 ### Controls:
 W - up\
 A - left\
-D - right
+D - right\
 S - down
 
 ### Link:
