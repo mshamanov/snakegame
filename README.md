@@ -1,1 +1,2 @@
-# snakegame
+# Snakegame
+HTML + CSS + JavaScript
