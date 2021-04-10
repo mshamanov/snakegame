@@ -1,5 +1,5 @@
 // CONSTANTS
-const fieldSize = 30;
+const fieldSize = 26;
 const snakeSize = 1;
 const snakeClass = "snake";
 const wormClass = "worm";
