@@ -29,7 +29,7 @@ $(document).click((event) => {
   if (!$(event.target).is("p#sound-setting")) {
     if (!paused) {
       paused = true;
-      setTitle("Paused, Press A Key To Continue");
+      setTitle("Paused, Press Any Key To Continue");
     }
   }
 });
@@ -201,7 +201,7 @@ function clearWorm() {
 function gameOver() {
   paused = true;
   playSound(gameOverSound);
-  setTitle("Game Over, Press A Key to Try Again")
+  setTitle("Game Over, Press Any Key to Try Again")
 
   if (score > best) {
     best = score;
