@@ -1,5 +1,5 @@
 # Snakegame
-HTML + CSS + JavaScript\
+HTML + CSS + JavaScript
 
 ### Controls:
 W - up\
