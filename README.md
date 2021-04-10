@@ -1,11 +1,11 @@
 # Snakegame
 HTML + CSS + JavaScript\
 
-# Controls:\
+## Controls:
 W - up\
 A - left\
 D - right\
 S - down\
 \
-# Link:\ 
+## Link:
 https://mshamanov.github.io/snakegame/
