@@ -201,7 +201,7 @@ function clearWorm() {
 function gameOver() {
   paused = true;
   playSound(gameOverSound);
-  setTitle("Game Over, Press Any Key to Try Again")
+  setTitle("Game Over, Press Any Key To Try Again")
 
   if (score > best) {
     best = score;
